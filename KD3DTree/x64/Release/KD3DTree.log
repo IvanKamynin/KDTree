@@ -1,0 +1,9 @@
+﻿  main.cpp
+  math_util.cpp
+  struct_file.cpp
+  struct_item.cpp
+  Generating code
+  All 1056 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  KD3DTree.vcxproj -> C:\Habr\KD3DTree\x64\Release\KD3DTree.exe
+  KD3DTree.vcxproj -> C:\Habr\KD3DTree\x64\Release\KD3DTree.pdb (Full PDB)
